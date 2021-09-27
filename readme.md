@@ -1,9 +1,9 @@
-## Marblelicous WordPress Project
+# Marblelicous WordPress Project
 
-# Theme used:
+## Theme used:
 * Flatsome Theme
 
-# Plugins Used:
+## Plugins Used:
 * WooCommerce
 *  Jetpack
 *  Contact Form 7 
@@ -12,5 +12,5 @@
 *  WooCommerce PayPal Checkout Gateway
 *  YITH WooCommerce Wishlist
 
-# Folder of WordPress
+## Folder of WordPress
 * Github Link ***https://github.com/Dxdiag14/Marblelicous-Wordpress***
